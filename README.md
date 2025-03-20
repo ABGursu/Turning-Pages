@@ -1,7 +1,5 @@
 # TurningPages BookStore Management System
 
-![TurningPages Logo](resources/logo.png) <!-- You can add a logo image to your resources folder -->
-
 ## Overview
 
 TurningPages is a comprehensive bookstore management system designed to streamline inventory management, sales tracking, and supplier relationships for bookstore owners and staff. This Java-based desktop application provides an intuitive graphical user interface with robust database functionality to manage all aspects of a bookstore business.
@@ -153,9 +151,6 @@ The application uses an SQLite database with the following main tables:
    - Ensure you have write permissions to the destination folder
    - Check that CSV files are properly formatted for import
 
-### Data Recovery
-The system automatically creates database backups during critical operations. Backup files are stored in the `backups` folder.
-
 ## Security Considerations
 
 - User passwords are stored securely
@@ -165,12 +160,7 @@ The system automatically creates database backups during critical operations. Ba
 ## Support and Feedback
 
 For support, bug reports, or feature requests, please contact:
-- Email: support@turningpages.com
 - Issue Tracker: [GitHub Issues](https://github.com/ABGursu/TurningPages/issues)
-
-## License
-
-This software is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
 
